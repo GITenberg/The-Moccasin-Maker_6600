@@ -1,0 +1,46 @@
+_repo: The-Moccasin-Maker_6600
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Mair, Charles
+    birthdate: 1838
+    deathdate: 1927
+    gutenberg_agent_id: '2214'
+    url: http://www.gutenberg.org/2009/agents/2214
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Mair
+  - agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+creator:
+  author:
+    agent_name: Johnson, E. Pauline
+    aliases:
+    - Johnson, Pauline
+    - Tekahionwake
+    - Johnson, Emily Pauline
+    birthdate: 1861
+    deathdate: 1913
+    gutenberg_agent_id: '1209'
+    url: http://www.gutenberg.org/2009/agents/1209
+    wikipedia: http://en.wikipedia.org/wiki/Pauline_Johnson
+description: ''
+gutenberg_issued: '2004-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Canada -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Moccasin Maker
+url: http://www.gutenberg.org/ebooks/6600
