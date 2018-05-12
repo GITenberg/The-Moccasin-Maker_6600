@@ -1,5 +1,5 @@
 _repo: The-Moccasin-Maker_6600
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Mair, Charles
@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '1285'
     url: http://www.gutenberg.org/2009/agents/1285
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, E. Pauline
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1209
     wikipedia: http://en.wikipedia.org/wiki/Pauline_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6600#The-Moccasin-Maker
 gutenberg_issued: '2004-06-24'
 gutenberg_type: Text
 identifiers:
